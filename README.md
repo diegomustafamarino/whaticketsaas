@@ -18,16 +18,16 @@ https://control.peramix.com/?affid=14
 
 24/07/2024 – Versão 5.0.0
 
-🛠️ Fizemos correção no Vcard
-🔄 Função de habilitar e desabilitar novos registros
-⏳ Tempo de Trial disponível no Painel
-⚡ Respostas rápidas visualizadas por todos os usuários
-📞 Contatos agora aparece se é um número ok e o horário da última interação
-👀 Agora é possível ver o número que está conectado no Whaticket
-🔄 Botão para reiniciar conexões adicionado
-🎨 Alterar logo pelo Painel
-🆕 Adicionado nova ABA Cadastrar Empresa
-📋 Add Opção Plano Interno
+🛠️ Fizemos correção no Vcard </br>
+🔄 Função de habilitar e desabilitar novos registros</br>
+⏳ Tempo de Trial disponível no Painel</br>
+⚡ Respostas rápidas visualizadas por todos os usuários</br>
+📞 Contatos agora aparece se é um número ok e o horário da última interação</br>
+👀 Agora é possível ver o número que está conectado no Whaticket</br>
+🔄 Botão para reiniciar conexões adicionado</br>
+🎨 Alterar logo pelo Painel</br>
+🆕 Adicionado nova ABA Cadastrar Empresa</br>
+📋 Add Opção Plano Interno</br>
 
 Caso queira fazer uma contribuição, serei muito grato.</br>
 Chave Pix, aleatória:
