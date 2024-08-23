@@ -32,7 +32,7 @@ efd3110c-e572-42b5-a6cb-5984a8811ad2
 
 Biblioteca Baileys Atualizada:</br>
 
-V 6.7.5
+V 6.7.7
 
 Instalador atualizado, versao NodeJS 20:
 
