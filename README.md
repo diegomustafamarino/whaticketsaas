@@ -16,11 +16,20 @@ STANDARD: 4 vCores, 12 GB de RAM e 200 GB de SSD NVMe $ 7.99 USD Mensal com taxa
 https://control.peramix.com/?affid=14
 ```
 
-Eventualmente manteremos a versão mais atrasada a atualmente em comercialização. Podendo estar em algum momento atualizada.
-
 Versão 5.0 de 5.0</br>
 
-Não há suporte, gentileza não enviar e-mails ou chamar nas redes sociais, utilize a seção Issues do próprio Github.
+24/07/2024 – Versão 5.0.0
+
+🛠️ Fizemos correção no Vcard
+🔄 Função de habilitar e desabilitar novos registros
+⏳ Tempo de Trial disponível no Painel
+⚡ Respostas rápidas visualizadas por todos os usuários
+📞 Contatos agora aparece se é um número ok e o horário da última interação
+👀 Agora é possível ver o número que está conectado no Whaticket
+🔄 Botão para reiniciar conexões adicionado
+🎨 Alterar logo pelo Painel
+🆕 Adicionado nova ABA Cadastrar Empresa
+📋 Add Opção Plano Interno
 
 Caso queira fazer uma contribuição, serei muito grato.</br>
 Chave Pix, aleatória:
