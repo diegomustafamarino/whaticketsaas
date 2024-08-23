@@ -16,8 +16,6 @@ STANDARD: 4 vCores, 12 GB de RAM e 200 GB de SSD NVMe $ 7.99 USD Mensal com taxa
 https://control.peramix.com/?affid=14
 ```
 
-Versão 5.0 de 5.0</br>
-
 24/07/2024 – Versão 5.0.0
 
 🛠️ Fizemos correção no Vcard
